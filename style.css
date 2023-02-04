@@ -99,7 +99,7 @@ body{
 }
 
 .popup{
-  width: 400px;
+  width: 360px;
   background: radial-gradient(#e66465, #9198e5);
   border-radius: 6px;
   position: absolute;
